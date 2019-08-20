@@ -6,6 +6,7 @@
   "name": "Better Compass",
   "description": "Lets you bind compasses to a location.",
   "authors": [
+	"Lemonszz",
     "Shnupbups"
   ],
   "contact": {
@@ -14,8 +15,8 @@
     "issues": "https://github.com/Lemonszz/better-compass-fabric/issues"
   },
   
-  "license": "LGPLv3",
-  "icon": "assets/golemhealer/logo.png",
+  "license": "MIT",
+  "icon": "assets/bettercompass/logo.png",
   
   "environment": "*",
   "entrypoints": {
