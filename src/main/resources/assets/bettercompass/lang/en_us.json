@@ -1,11 +1,11 @@
 {
-  "bettercompass.message.set": "Your compass has been set",
-  "bettercompass.message.info": "Custom Location",
+  "bettercompass.message.set": "Your compass has been bound to a location.",
+  "bettercompass.message.info": "Bound to X%1$s Y%2$s Z%3$s in Dim %4$s",
 
   "bettercompass.message.info.overworld": "The Overworld",
   "bettercompass.message.info.nether": "The Nether",
   "bettercompass.message.info.end": "The End",
   "bettercompass.message.info.dimension": "Dimension",
 
-  "item.bettercompass.homing_compass": "Homing compass"
+  "item.bettercompass.bound_compass": "Bound Compass"
 }

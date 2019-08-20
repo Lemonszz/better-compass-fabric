@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "party.lemons.bettercompass.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+	"CompassMixin"
+  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

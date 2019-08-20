@@ -2,7 +2,7 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:compass"
+      "item": "bettercompass:bound_compass"
     }
   ],
   "result": {

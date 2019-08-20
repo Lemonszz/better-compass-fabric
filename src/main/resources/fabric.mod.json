@@ -1,7 +1,34 @@
 {
+  "schemaVersion": 1,
   "id": "bettercompass",
+  "version": "2.0.0",
+  
   "name": "Better Compass",
-  "version": "1.0.0",
-  "side": "universal",
-  "initializer": "party.lemons.bettercompass.BetterCompass"
+  "description": "Lets you bind compasses to a location.",
+  "authors": [
+    "Shnupbups"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-compass-fabric",
+    "sources": "https://github.com/Lemonszz/better-compass-fabric",
+    "issues": "https://github.com/Lemonszz/better-compass-fabric/issues"
+  },
+  
+  "license": "LGPLv3",
+  "icon": "assets/golemhealer/logo.png",
+  
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "party.lemons.bettercompass.BetterCompass"
+    ]
+  },
+  "mixins": [
+    "bettercompass.mixins.json"
+  ],
+  
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
 }
